@@ -1,0 +1,16 @@
+body, html {
+    font-size: small;
+}
+
+div#viewport {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.jhp > #gb {
+    position: absolute;
+    right: 0;
+    top: -295px;
+    width: 100%;
+}
