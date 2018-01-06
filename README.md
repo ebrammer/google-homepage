@@ -1,0 +1,1 @@
+In this mini-project I am going to deconstruct and rebuild Google's homepage using basic HTML, CSS, & Javascript.
