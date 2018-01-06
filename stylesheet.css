@@ -8,9 +8,12 @@ div#viewport {
     width: 100%;
 }
 
-.jhp > #gb {
+
+.jhp {
+    background: blue none repeat scroll 0 0;
+    height: 50px;
+    left: 50%;
     position: absolute;
-    right: 0;
-    top: -295px;
-    width: 100%;
+    top: 50px;
+    width: 50px;
 }
